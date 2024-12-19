@@ -15,4 +15,4 @@ Muestra íconos de redes sociales con nombres personalizados en la pantalla de t
 4. Configura los parámetros a tu gusto.
 
 ## Autor
-Creado por Diego Camacho.
+Creado por SoulDragonSSS
